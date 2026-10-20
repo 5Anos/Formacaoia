@@ -1,0 +1,6 @@
+{
+  "name": "IA na Educação: Módulo 1 - Fundamentos",
+  "description": "Ambiente interativo de apoio à formação 'Inteligência Artificial na Educação: Estratégias, Ferramentas e Práticas Pedagógicas' (Módulo 1: Fundamentos da IA, Autora: Carla Oliveira), com simuladores práticos, linha do tempo interativa e catálogo de ferramentas docentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
